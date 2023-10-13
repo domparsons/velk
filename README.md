@@ -1,4 +1,4 @@
-# Velk - Code Snippet Organiser
+# Velk
 
 ## Description
 Velk is a macOS app designed to help developers organise and manage their code snippets effectively.
